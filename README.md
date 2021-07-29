@@ -23,7 +23,7 @@ This fully function application allows users to search for books using the Googl
 
 ## Gallery
 
-![Imgur Image](https://imgur.com/a/vLkPtE4.png)(https://www.youtube.com/watch?v=EqC5_CKi9tk)
+![Imgur Image](http://imgur.com/a/vLkPtE4.png)(https://www.youtube.com/watch?v=EqC5_CKi9tk)
 
 ## License
 
