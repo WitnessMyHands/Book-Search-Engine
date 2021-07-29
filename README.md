@@ -23,7 +23,7 @@ This fully function application allows users to search for books using the Googl
 
 ## Gallery
 
-[![Watch the MERN Video](https://imgur.com/a/vLkPtE4)](https://www.youtube.com/watch?v=EqC5_CKi9tk)
+[Watch the MERN Video](https://imgur.com/a/vLkPtE4)(https://www.youtube.com/watch?v=EqC5_CKi9tk)
 
 ## License
 
