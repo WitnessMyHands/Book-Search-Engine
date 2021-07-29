@@ -3,8 +3,6 @@ Find and retrieve information on some of your favorite books using the Google Bo
 
 [Link to GitHub Repository](https://github.com/WitnessMyHands/Book-Search-Engine)
 
-[Link to Heroku Deployed Application](https://wmh-book-search-engine.herokuapp.com/)
-
 ## Table Of Contents
 - [Description](#Description)
 - [Installation](#Installation)
