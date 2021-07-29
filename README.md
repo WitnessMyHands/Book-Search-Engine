@@ -22,12 +22,7 @@ This fully function application allows users to search for books using the Googl
 - When complete, the web application should open in a new window. If browser window does not open, navigate to - https://localhost:3000 
 
 ## Gallery
-
-<<<<<<< HEAD
 [![Watch the MERN Video](./mern-screen.png)](https://www.youtube.com/watch?v=EqC5_CKi9tk)
-=======
-![Imgur Image](http://imgur.com/a/vLkPtE4.png)(https://www.youtube.com/watch?v=EqC5_CKi9tk)
->>>>>>> 66a46f040bbd42abf212f399961b614725345dab
 
 ## License
 
