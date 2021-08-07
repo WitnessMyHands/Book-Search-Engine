@@ -3,8 +3,6 @@ Find and retrieve information on some of your favorite books using the Google Bo
 
 [Link to GitHub Repository](https://github.com/WitnessMyHands/Book-Search-Engine)
 
-[Link to Heroku Deployed Application](https://wmh-book-search-engine.herokuapp.com/)
-
 ## Table Of Contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -22,7 +20,6 @@ This fully function application allows users to search for books using the Googl
 - When complete, the web application should open in a new window. If browser window does not open, navigate to - https://localhost:3000 
 
 ## Gallery
-
 [![Watch the MERN Video](./mern-screen.png)](https://www.youtube.com/watch?v=EqC5_CKi9tk)
 
 ## License
